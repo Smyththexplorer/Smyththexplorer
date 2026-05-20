@@ -1,4 +1,4 @@
-about to km/s
+bout to km/s
 
 <!---
 Smyththexplorer/Smyththexplorer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
